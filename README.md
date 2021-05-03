@@ -26,7 +26,7 @@ This React application contains an employee directory that is currently loaded w
 
 
 
-![](public/employee1.png)
+![](public/employee2.png)
 
 
 
