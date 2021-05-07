@@ -4,7 +4,7 @@
 
 Built with React
 
-URL of the GitHub repository: https://github.com/TomFallon9/employee-directory
+GitHub repository: https://github.com/TomFallon9/employee-directory
 
 URL to the deployed application: https://employee-directory2345.herokuapp.com/
 
